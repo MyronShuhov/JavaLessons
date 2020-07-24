@@ -21,7 +21,7 @@ public class Main {
         System.out.println("long: " + l);//sout
         System.out.println("float: " + f1);//sout
         System.out.println("double: " + db);//sout
-        System.out.println(bool1);//sout
+        System.out.println(bool1);
         System.out.println(bool2);
 //ctrl+d - копировать строку
 //ctrl+y - удалить строку
